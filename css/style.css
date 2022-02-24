@@ -1,15 +1,3 @@
-/* TABLE OF CONTENTS */
-/* ------------------
-1. General
-2. Navbar
-3. Banner
-4. About
-5. project
-6. Contact
-7. Footer
--------------------- */
-
-/* 1 General */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 * {
@@ -19,7 +7,6 @@
 }
 
 :root {
-    /* Background Color */
     --primary-color: #FD4766;
     --secondary-color: #0e1525;
     --bg-dark-blue: #091020;
@@ -44,8 +31,6 @@ body {
 a {
     text-decoration: none;
 }
-
-/* 1 Custom CSS */
 
 ::-webkit-scrollbar {
     width: 6px;
